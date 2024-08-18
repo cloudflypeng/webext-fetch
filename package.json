@@ -10,6 +10,11 @@
   },
   "devDependencies": {
     "typescript": "^5.5.3",
-    "vite": "^5.4.1"
+    "vite": "^5.4.1",
+    "vite-plugin-dts": "^4.0.3"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.270",
+    "@types/node": "^22.4.0"
   }
 }
