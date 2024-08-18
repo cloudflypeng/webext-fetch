@@ -1,6 +1,6 @@
 {
   "name": "@meanc/webext-fetch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "dist/webext-fetch.umd.js",
   "module": "dist/webext-fetch.es.js",
